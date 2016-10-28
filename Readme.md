@@ -11,14 +11,14 @@ Method				: POST
 Request Content-type: application/json
 Example Request	1	:	{
                           "shopName": "test",
-                          "shopNumber": "shop1",
+                          "shopNumber": "1",
                           "postCode": "411 009"                          
                         }
 Success Response	: 200 OK
 
 Example Request	2	:	{
-                          "shopName": "test1",
-                          "shopNumber": "shop2",
+                          "shopName": "test",
+                          "shopNumber": "1",
                           "postCode": "411 010"                          
                         }
 Success Response	: 200 OK
@@ -76,7 +76,7 @@ You need Java 8 for running this project.
 If using maven you can use below command to run it
 
 From Command Promt go to the path Where Pom.xml is placed and use mvn clean install command to build the project.
-In project there is java class ShopsNearYouApplication.java right click and select Run As--> Java application.
+In project there is java class FindShopNearByYou.java right click and select Run As--> Java application.
 
 
 **As jar :**
