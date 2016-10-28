@@ -17,8 +17,8 @@ Example Request	1	:	{
 Success Response	: 200 OK
 
 Example Request	2	:	{
-                          "shopName": "test",
-                          "shopNumber": "1",
+                          "shopName": "test1",
+                          "shopNumber": "11",
                           "postCode": "411 010"                          
                         }
 Success Response	: 200 OK
@@ -61,7 +61,7 @@ Example Response		: 200 OK
         "shopName": "test1",
         "shopLatitude": 40.1397226,
         "shopLongitude": -111.4052058,
-        "shopNumber": "1",
+        "shopNumber": "11",
         "postCode": "411 009"
     }
 ]  
