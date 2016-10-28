@@ -11,14 +11,14 @@ Method				: POST
 Request Content-type: application/json
 Example Request	1	:	{
                           "shopName": "test",
-                          "shopNumber": "1",
+                          "shopNumber": "shop1",
                           "postCode": "411 009"                          
                         }
 Success Response	: 200 OK
 
 Example Request	2	:	{
-                          "shopName": "test",
-                          "shopNumber": "1",
+                          "shopName": "test1",
+                          "shopNumber": "shop2",
                           "postCode": "411 010"                          
                         }
 Success Response	: 200 OK
