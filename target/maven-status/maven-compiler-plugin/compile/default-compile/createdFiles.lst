@@ -1,0 +1,7 @@
+com\shops\data\MemoryStore.class
+com\shops\model\Shop.class
+com\shops\api\ShopsController.class
+com\shops\geoCode\GeocodeService.class
+com\shops\FindShopNearByYou.class
+com\shops\data\Util.class
+com\shops\data\Store.class
